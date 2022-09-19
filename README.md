@@ -1,15 +1,17 @@
 # Copy AnnaTwelve Site
 
 Project was created in form edcucation. It's a try create imitate
-home page from original site, with some changes. 
+home page from original site, with some changes.
 
-## Tech 
+## Tech
 
 - JavaScript
 - Css
 - Html 5
 
 [https://maciek7987.github.io/Copy-annaTwelve/]
+
+![Home page](./images/copyanna.png)
 
 ## Some information about project
 
