@@ -15,7 +15,7 @@ Project was created in the form of education. This is an attempt to replicate th
 
 ## Some information about project
 
-The most hardest thing was change of letters to greek in infinite during hover, where i used requestAnimationFrame and second thing was change opacity on links which weren't hover the mouse.
+The hardest part was coding the conversion of the letters to Greek while hovering the mouse over the captions. To achieve that result, I've used requestAnimatiomFrame()
 
 ## Sources
 
