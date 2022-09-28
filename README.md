@@ -1,8 +1,7 @@
 # Copy AnnaTwelve Site
 
-This website can be viewed only on desktop ,The hover animation I’ve used wouldn’t work on mobile devices
-Project was created in form edcucation. It's a try create imitate
-home page from original site, with some changes.
+This website can be viewed only on desktop, The hover animation I’ve used wouldn’t work on mobile devices.
+Project was created in the form of education. This is an attempt to replicate the main "annatwelve" page with some changes.
 
 ## Tech
 
